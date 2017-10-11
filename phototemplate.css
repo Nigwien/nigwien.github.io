@@ -1,0 +1,14 @@
+body {
+    background-color:lightgreen;
+}
+
+h1 {
+    font-family: serif;
+    color: #3399ff;
+    text-align: center;
+}
+
+p {
+    font-family: comic sans-serif;
+    font-size: 50px;
+}
